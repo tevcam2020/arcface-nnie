@@ -1,6 +1,6 @@
 ## centerface on nnie
 
-训练代码参考DBface,此代码所用模型进行了重新训练，代码使用C++ opencv方式编写，简洁易用。
+训练代码参考ArcFace,此代码所用模型进行了重新训练，代码使用C++ opencv方式编写，简洁易用。
 
 #### 性能
 
